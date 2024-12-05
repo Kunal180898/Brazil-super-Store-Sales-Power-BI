@@ -1,5 +1,6 @@
 # Brazil-super-Store-Sales-Power-BI
 Power BI Project
+Dataset Link :- https://www.kaggle.com/datasets/devarajv88/target-dataset?select=sellers.csv
 
 1. Main Dashboard
 Purpose: Provides a high-level overview of key sales and order trends.
